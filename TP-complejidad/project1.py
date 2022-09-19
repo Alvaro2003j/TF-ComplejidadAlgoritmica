@@ -35,4 +35,4 @@ class Grafo:
         for line in lines:
             line = line.rstrip()
             line = line.split(';')
-            self.pushVertice(int(line[0]), Vertice())
+            self.pushVertice(Hotel(line[1], line[2]))
