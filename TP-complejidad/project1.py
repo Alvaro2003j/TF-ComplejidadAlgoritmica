@@ -26,7 +26,7 @@ class Grafo:
         self.vertices = []
     
     def pushVertice(self, value):
-        if value.name not in self.vertices:
+        if value.name not in self.vertices or len(self.vertices) < 1:
             self.vertices.append(Vertice(value))
 
     def readDocument(self, path):
@@ -35,4 +35,4 @@ class Grafo:
         for line in lines:
             line = line.rstrip()
             line = line.split(';')
-            self.pushVertice(Hotel(line[1], line[2]))
+            self.pushVertice(Hotel(line[0], line[1], line[2]))
