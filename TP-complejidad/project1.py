@@ -1,9 +1,10 @@
 __author__ = 'ALVARO'
 
 class Hotel:
-    def __init__(self, id=0, name=" ", deparment=" "):
+    def __init__(self, id=0, name=" ", cost=0.0, deparment=" "):
         self.id=id
         self.name=name
+        self.cost=cost
         self.deparment=deparment
 #############################################################
 class Vertice:
@@ -34,5 +35,5 @@ class Grafo:
         lines = fh.readline()
         for line in lines:
             line = line.rstrip()
-            line = line.split(';')
-            self.pushVertice(Hotel(line[0], line[1], line[2]))
+            line = line.split(',')
+            self.pushVertice(Hotel(line[0], line[1], float(line[2]), line[3]))
