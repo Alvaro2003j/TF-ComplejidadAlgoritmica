@@ -6,7 +6,7 @@ Este proyecto está planeado para resolver el problema de los turístas nacional
 
     - Alvaro Antonio Julca Gallardo (202015074)
     - Fabrizio Daniel Cuellar Villegas (20201c773)
-    -
+    - Fabiola Dayane Becerra Llempen (20171a518)
 
 ## Language
 
