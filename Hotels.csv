@@ -1,21 +1,180 @@
 ,Hotel,Ubicacion,Direccion,Estrellas,Longitud,Latitud
 1,Hotel Hilton Garden Inn Cusco,"Cusco a 0,38 km del centro","Av. Abancay 207, Santa Ana, Cusco 00000, Cusco (Peru)",4,-71.98454,-13.51504
 2,Hotel Casa Cartagena,"Cusco a 0,23 km del centro","Calle Pumacurco 336, Cusco Centro His, Cusco (Peru)",5,-71.93993,-13.53219
-3,Hostal Principe III,"Cusco a 0,85 km del centro","Av. Huascar 222, Cusco , Cusco (Peru)",-1,-71.97202,-13.5228
-4,Hotel Casa Andina Standard Cusco Catedral,"Cusco a 0,09 km del centro","Calle Santa Catalina Angosta 149, Cusco Cusco, Cusco (Peru)",3,-71.97742,-13.51716
-5,Hotel Royal Inka I,"Cusco a 0,11 km del centro","Plaza Regocijo 299, Cusco N/A, Cusco (Peru)",3,-71.9802,-13.51714
-6,Hotel Eco Inn Cusco,"Cusco a 0,73 km del centro","Av. El Sol 1010, Cusco 00000, Cusco (Peru)",4,-71.97264,-13.52495
-7,Hostal Illapa Hostel,"Cusco a 0,38 km del centro","C/ Awacpinta 775, Centro Historico, Cusco n/a, Cusco (Peru)",-1,-71.97414,-13.52208
-8,Hostal Cedros,"Cusco a 1,01 km del centro","Av. Pachacutec 419, Cusco Cusc 01, Cusco (Peru)",-1,-71.9708,-13.52438
-9,Sumac Tika Hostal,"Cusco a 2,42 km del centro","Urb. Marcavalle C-13, Cusco , Cusco (Peru)",-1,-71.94651,-13.53053
-10,Hostal Hitchhikers Cusco Hostel,"Cusco a 0,22 km del centro","Calle Saphi 440, Cusco Cusc01, Cusco (Peru)",-1,-71.98114,-13.51502
-11,Hotel La Casa De Mayte,"Cusco a 0,3 km del centro","C/ Recoleta Angosta 559, Cusco , Cusco (Peru)",2,-71.9741,-13.5168
-12,Emperatriz Guest House,"Cusco a 0,52 km del centro","C/ Arcopunco Nº 126, Cusco Cusc01, Cusco (Peru)",-1,-71.97319,-13.51979
-13,Hostal Garden Of San Blas,"Cusco a 0,4 km del centro","Pasñapacana, 130, Cusco , Cusco (Peru)",-1,-71.97437,-13.51446
-14,La Posada Del Viajero,"Cusco a 0,15 km del centro","Santa Catalina Ancha 366, Cusco 084, Cusco (Peru)",-1,-71.97653,-13.51701
-15,Hostal Mama Simona,"Cusco a 0,34 km del centro","Calle Ceniza 364, San Pedro, Cusco 260408, Cusco (Peru)",-1,-71.98402,-13.51789
-16,Hotel Tierra Viva Cusco Centro,"Cusco a 0,47 km del centro","Callle Cruz Verde 390, Cusco Cusco01, Cusco (Peru)",3,-71.98059,-13.52071
-17,Posada Andean South Inn,"Cusco a 0,37 km del centro","Tandapata, 635 - San Blas, Cusco 051, Cusco (Peru)",-1,-71.97584,-13.51279
-18,InkaÂŽs Tambo Hotel,"Cusco a 2,32 km del centro","Urb. Quispicanchi C-4, Av. Brasil, Cusco 08000, Cusco (Peru)",-1,-71.96281,-13.53022
-19,Aranwa Cusco Boutique Hotel,"Cusco a 0,15 km del centro","San Juan de Dios 255, Cusco 00045, Cusco (Peru)",5,-71.98124,-13.51697
-20,Hotel Apart R House Cusco,"Cusco a 0,78 km del centro","Tupac Yupanqui 280, Urbanización Tahuantinsuyo, Cusco 08000, Cusco (Peru)",3,-71.96826,-13.5159
+3,Hostal Principe III,"Cusco a 0,85 km del centro","Av. Huascar 222, Cusco , Cusco (Peru)",3,-71.97202,-13.5228
+4,Hotel Royal Inka I,"Cusco a 0,11 km del centro","Plaza Regocijo 299, Cusco N/A, Cusco (Peru)",4,-71.9802,-13.51714
+5,Hotel Eco Inn Cusco,"Cusco a 0,73 km del centro","Av. El Sol 1010, Cusco 00000, Cusco (Peru)",-1,-71.97264,-13.52495
+6,Hostal Cedros,"Cusco a 1,01 km del centro","Av. Pachacutec 419, Cusco Cusc 01, Cusco (Peru)",-1,-71.9708,-13.52438
+7,Sumac Tika Hostal,"Cusco a 2,42 km del centro","Urb. Marcavalle C-13, Cusco , Cusco (Peru)",-1,-71.94651,-13.53053
+8,Hostal Hitchhikers Cusco Hostel,"Cusco a 0,22 km del centro","Calle Saphi 440, Cusco Cusc01, Cusco (Peru)",2,-71.98114,-13.51502
+9,Hotel La Casa De Mayte,"Cusco a 0,3 km del centro","C/ Recoleta Angosta 559, Cusco , Cusco (Peru)",-1,-71.9741,-13.5168
+10,La Posada Del Viajero,"Cusco a 0,15 km del centro","Santa Catalina Ancha 366, Cusco 084, Cusco (Peru)",3,-71.97653,-13.51701
+11,Hotel Tierra Viva Cusco Centro,"Cusco a 0,47 km del centro","Callle Cruz Verde 390, Cusco Cusco01, Cusco (Peru)",-1,-71.98059,-13.52071
+12,Posada Andean South Inn,"Cusco a 0,37 km del centro","Tandapata, 635 - San Blas, Cusco 051, Cusco (Peru)",5,-71.97584,-13.51279
+13,Aranwa Cusco Boutique Hotel,"Cusco a 0,15 km del centro","San Juan de Dios 255, Cusco 00045, Cusco (Peru)",3,-71.98124,-13.51697
+14,Hotel Apart R House Cusco,"Cusco a 0,78 km del centro","Tupac Yupanqui 280, Urbanización Tahuantinsuyo, Cusco 08000, Cusco (Peru)",-1,-71.96826,-13.5159
+15,Hotel Casa Andina Premium Cusco,"Cusco a 0,47 km del centro","Plazoleta Limacpampa Chico, 473, Cusco Cusco, Cusco (Peru)",3,-71.97709,-13.51515
+16,Munay Wasi Inn Hotel,"Cusco a 0,36 km del centro","Av Tullumayu 418, Cusco 0000, Cusco (Peru)",-1,-71.97382,-13.51944
+17,Andean Wings Boutique Hotel,"Cusco a 0,18 km del centro","Siete Cuartones, 225, Cusco 51, Cusco (Peru)",-1,-71.98145,-13.5157
+18,Hotel Casa Escondida Chincana Wasi,"Cusco a 0,48 km del centro","Calle Pumacurco 635, Centro Histórico, Cusco Cusc 01, Cusco (Peru)",2,-71.97849,-13.5127
+19,Hotel Wyndham Cusco Saqsayhuaman,"Cusco a 1,08 km del centro","Calle San Martín C7, Urb. Ucchullo Alto, Cusco 084, Cusco (Peru)",4,-71.93541,-13.53002
+20,Hotel Casablanca,"Cusco a 0,54 km del centro","C/ Tecte 218- Cusco, Cusco 084, Cusco (Peru)",3,-71.98056,-13.52096
+21,Hostal La Casona De Rimacpampa,"Cusco a 0,43 km del centro","Limacpampa Chico, 493, Cusco 84, Cusco (Peru)",-1,-71.97349,-13.51948
+22,Y Apartaments,"Cusco a 1,59 km del centro","Calle Cuzco J.11, Cusco Cusco 01, Cusco (Peru)",-1,-71.97852,-13.51643
+23,Sumayaq Hostel Cusco,"Cusco a 0,29 km del centro","Calle Nueva Baja 440, Cusco 0000, Cusco (Peru)",-1,-71.98303,-13.51781
+24,Apartamento Confort & Elegancia,"Cusco a 1,09 km del centro","Av. Pachacutec   522, Cusco , Cusco (Peru)",-1,-71.96966,-13.52454
+25,Loki Hostel Cusco,"Cusco a 0,36 km del centro","Cuesta Santa Ana #601, Cusco 14, Cusco (Peru)",-1,-71.98338,-13.52051
+26,Yawar Inka Hotel,"Cusco a 0,99 km del centro","Av. Pardo 988, Cusco 084, Cusco (Peru)",3,-71.97379,-13.52502
+27,Hotel San AgustÃ­n Internacional,"Cusco a 1,05 km del centro","Calle Maruri, 390, Cusco 084, Cusco (Peru)",3,-71.97559,-13.51826
+28,Hotel Tierra Viva Cusco Plaza,"Cusco a 0,1 km del centro","Calle Suecia 345, Cusco Cusco, Cusco (Peru)",3,-71.97915,-13.5154
+29,Hotel Don Bosco,"Cusco a 0,37 km del centro","Av. Teodoro Huaylupo 104, Cusco Cusco, Cusco (Peru)",3,-71.97852,-13.51643
+30,Hotel Tierra Viva Cusco Saphi,"Cusco a 0,48 km del centro","Calle Saphi 766, Cusco Cuzco 01, Cusco (Peru)",3,-71.98279,-13.51325
+31,Net House B&B,"Cusco a 0,44 km del centro","Calle Unión 140, Cusco CUZ084, Cusco (Peru)",-1,-71.98344,-13.51993
+32,Hostal Orquidea Real,"Cusco a 0,26 km del centro","Calle Alabado 520, Cusco cuz 01, Cusco (Peru)",-1,-71.94377,-13.53912
+33,Cusco Pardo Hotel,"Cusco a 1,03 km del centro","Av. Regional 998 Cusco, Cusco CUSC 01, Cusco (Peru)",3,-71.9736,-13.52539
+34,Albergue Sunset House Cusco,"Cusco a 0,47 km del centro","Calle Tandapata 353-B, San Blas, Cusco cusc 01, Cusco (Peru)",-1,-71.97627,-13.51257
+35,Imperial Cusco Hotel,"Cusco a 0,88 km del centro","Av. Centenario 741, Cusco 051, Cusco (Peru)",3,-71.976,-13.52401
+36,Hotel Casa Andina Standard Cusco San Blas,"Cusco a 0,33 km del centro","Calle Chihuampata 278, Cusco San Blas, Cusco (Peru)",3,-71.97342,-13.51615
+37,Hotel Novotel Cusco,"Cusco a 0,19 km del centro","Calle San Augustín 239 , Cusco Pasaje San, Cusco (Peru)",4,-71.97583,-13.51747
+38,Hotel Terra Andina,"Cusco a 0,46 km del centro","Calle Unión 184, Cusco Cusc 01, Cusco (Peru)",3,-71.98365,-13.51957
+39,Hotel Torre Dorada,"Cusco a 1,88 km del centro","Calle los Cipreses N° 5, Residencial Huancaro, Cusco Cusc 01, Cusco (Peru)",3,-77.03196,38.89037
+40,Loreto Boutique Hotel,"Cusco a 0,11 km del centro","Calle Loreto 115 , Cusco 084, Cusco (Peru)",-1,-71.97792,-13.51735
+41,Hotel Fuente De Agua,"Cusco a 7527,31 km del centro","C/ Fray Domingo Cabrera, 5 - 084, Cusco 01, Cusco (Peru)",2,-71.8841,-13.54595
+42,Posada Tierra Del Inka San Blas,"Cusco a 0,34 km del centro","Calle Carmen Alto 227, San Blas, Cusco Cusc 01, Cusco (Peru)",-1,-71.97558,-13.51421
+43,Hotel Agustos,"Cusco a 1,68 km del centro","CALLE HIPOLITO UNANUE 155, , Cusco xxxx, Cusco (Peru)",3,-71.95812,-13.52621
+44,Hotel Sonesta Posadas Del Inca Cusco,"Cusco a 0,08 km del centro","Portal Espinar 108, Cusco 084, Cusco (Peru)",3,-71.97941,-13.51783
+45,Hotel Encantada Casa Boutique Spa,"Cusco a 0,48 km del centro","C/ Tandapata, 354, Cusco CUSC 01, Cusco (Peru)",3,-71.97627,-13.51257
+46,Hotel Tambo Del Arriero,"Cusco a 0,32 km del centro","Calle Nueva Alta 484, Cusco , Cusco (Peru)",3,-71.984,-13.51733
+47,Hostal Qorichaska,"Cusco a 0,28 km del centro","Calle Nueva Alta 458, Cusco 111, Cusco (Peru)",-1,-71.98373,-13.51716
+48,Hostal Apu Huascaran,"Cusco a 0,31 km del centro","C/ Carmen Bajo #257, Cusco 0000, Cusco (Peru)",-1,-71.97462,-13.51517
+49,Hotel Monarca,"Cusco a 0,39 km del centro","Calle Pumapaccha 290, Cusco Cusc 01, Cusco (Peru)",3,-71.97267,-13.51608
+50,Hostal Pumamarca Guest House,"Cusco a 0,38 km del centro","Calle Qollacalle 322, Cusco Cusc 01, Cusco (Peru)",-1,-71.97287,-13.51726
+51,Hotel Los Portales Cusco,"Cusco a 0,69 km del centro","Av. El Sol 602 Cusco, Cusco 84, Cusco (Peru)",3,-71.97563,-13.5216
+52,Hotel Samay,"Cusco a 1,16 km del centro","Av. San Martín 206, Cusco 084, Cusco (Peru)",3,-71.97008,-13.52925
+53,Hostal Inti Wasi,"Cusco a 0,09 km del centro","Calle del Medio 134, Cusco , Cusco (Peru)",-1,-71.97945,-13.51704
+54,Hostal Cusi Wasi,"Cusco a 0,42 km del centro","Avenida Arcopata 466A, Cusco 08002, Cusco (Peru)",-1,-71.98566,-13.5163
+55,Hostal El Virrey Boutique,"Cusco a 0,06 km del centro","Portal Comercio 165, Plaza de Armas, Cusco 084, Cusco (Peru)",-1,-71.97896,-13.51716
+56,Hotel Jw Marriott El Convento Cusco,"Cusco a 0,18 km del centro","Calle Ruinas 432, Cusco 0000, Cusco (Peru)",5,-71.97591,-13.51665
+57,Hotel Colquewasi,"Cusco a 0,59 km del centro","Calle Queshua 210, int. B5, Cusco CU 01, Cusco (Peru)",-1,-71.98609,-13.52059
+58,Bed & Breakfast Mallmanya Inn,"Cusco a 1,05 km del centro","Av. Ejército 1630, Cusco 084, Cusco (Peru)",-1,-71.97813,-13.52456
+59,Andean Dreams Hotel,"Cusco a 0,31 km del centro","Calle Choquechaca 261, Cusco Cusc86, Cusco (Peru)",2,-71.97666,-13.51422
+60,Tierra Del Sol Hotel,"Cusco a 0,8 km del centro","Calle Centenario 689, Cusco 080, Cusco (Peru)",3,-71.97621,-13.52381
+61,Hostal Pirwa Posada Del Corregidor,"Cusco a 0,06 km del centro","Portal de Panes 151, Plaza de Armas, Cusco Cusc 01, Cusco (Peru)",-1,-71.97932,-13.51625
+62,Hotel Buena Vista Cusco,"Cusco a 0,36 km del centro","Calle Pumacurco 490, Cusco CUSC 01, Cusco (Peru)",2,-71.97805,-13.51341
+63,Hotel Casa Andina Standard Cusco Plaza,"Cusco a 0,1 km del centro","Portal Espinar 142, Cusco, Cusco Cusco, Cusco (Peru)",3,-71.97955,-13.51763
+64,Hotel Centro Recreacional Wanakawri,"Cusco a 6,73 km del centro","Calle Romeritos, s/n - Fundo Buenavista, Cusco , Cusco (Peru)",3,-71.97539,-13.5191
+65,Misters Inkas Hotel Inn Palace Exclusive,"Cusco a 0,5 km del centro","Av. Tullumayo, 548, Cusco Cusc01, Cusco (Peru)",3,-71.97379,-13.51987
+66,Belmond Hotel Monasterio Cusco,"Cusco a 0,19 km del centro","Calle Palacio 140, Plazoleta Nazarenas, Cusco Plazoleta, Cusco (Peru)",5,-71.97709,-13.51515
+67,Hotel Del Prado Inn,"Cusco a 0,14 km del centro","Calle Suecia 310, Cusco 084, Cusco (Peru)",3,-71.9789,-13.51568
+68,Albergue Pirwa Backpackers Colonial,"Cusco a 0,19 km del centro","Plaza San Francisco 360, Cusco Cusc 01, Cusco (Peru)",-1,-71.8895,-13.54098
+69,Hotel Casa De Mama Cusco 2,"Cusco a 1,52 km del centro","Av. Infancia 548, Cusco Cusc 01, Cusco (Peru)",3,-71.96854,-13.5282
+70,Hotel Inkaterra La Casona,"Cusco a 0,76 km del centro","Plaza Las Nazarenas, 113, Cusco , Cusco (Peru)",4,-71.97853,-13.51644
+71,Hotel Sonesta Posada Del Inca Sacred Valley,"Cusco a 1,12 km del centro","Plaza Manco II 123, Yucay, Cusco 084, Cusco (Peru)",3,-72.08841,-13.31729
+72,Hotel Polo Cusco Suites,"Cusco a 1,46 km del centro","Av. San Martín 404, Cusco 051, Cusco (Peru)",3,-71.97008,-13.52925
+73,Hotel Polo Corporativo,"Cusco a 1,72 km del centro","Av. Infancia Nro. 156, Cusco , Cusco (Peru)",1,-71.96854,-13.52804
+74,Hotel & Mirador Los Apus,"Cusco a 0,31 km del centro","Calle Atocsaycuchi 515, Cusco None, Cusco (Peru)",3,-71.97622,-13.51343
+75,Hotel San Juan De Dios,"Cusco a 1,72 km del centro","Av. Manzanares 264, Cusco 5184, Cusco (Peru)",2,-71.95334,-13.52317
+76,Hotel Plaza De Armas,"Cusco a 7529,02 km del centro","Portal Mantas 114, Cusco Cusco, Cusco (Peru)",4,-71.9782,-13.52556
+77,Bed & Breakfast Second Home Cusco,"Cusco a 0,4 km del centro","Atocsaycuchi 616, Cusco , Cusco (Peru)",-1,-71.96909,-13.52914
+78,Hotel Kenamari,"Cusco a 0,79 km del centro","Av. Pardo 769-B, Cusco 001, Cusco (Peru)",3,-71.97507,-13.52336
+79,Hotel Casona Les Pleiades,"Cusco a 0,36 km del centro","C/ Tandapata, 116, Cusco Cusc 01, Cusco (Peru)",2,-71.9745,-13.51413
+80,Hotel La Morada Suites,"Cusco a 0,4 km del centro","Kurkurpata 230, Cusco 84, Cusco (Peru)",3,-71.97314,-13.51487
+81,Hotel El Mirador De Santa Ana,"Cusco a 0,54 km del centro","Av. La Raza N° 887 , Cusco Cusco 01, Cusco (Peru)",-1,-71.97852,-13.51643
+82,Amaru Hostal I,"Cusco a 0,32 km del centro","Cuesta San Blas, 541, Cusco 84, Cusco (Peru)",-1,-71.9753,-13.51544
+83,NiÃ±os Hotel Fierro,"Cusco a 0,4 km del centro","Calle Fierro 476 Cusco, Cusco , Cusco (Peru)",2,-71.98568,-13.51712
+84,Hotel Golden Inca,"Cusco a 0,66 km del centro","Calle Retiro 435, Cusco 08003, Cusco (Peru)",3,-71.96789,-13.52543
+85,Hostal Atlantis,"Cusco a 0,56 km del centro","Av. Lucrepata D1, Cusco 084, Cusco (Peru)",-1,-71.9652,-13.51543
+86,Hotel Antawasi,"Cusco a 0,56 km del centro","C/ Inticcahuarina, 621 - 084, Cusco 084, Cusco (Peru)",2,-71.96173,-13.51668
+87,Hotel Best Western Los Andes De America,"Cusco a 0,1 km del centro","C/ Garcilaso, 150, Cusco 84, Cusco (Peru)",3,-71.95575,-13.53223
+88,Hotel Costa Del Sol Ramada Cusco,"Cusco a 0,14 km del centro","Calle Santa Teresa 344, Cusco, Cusco Cusco, Cusco (Peru)",4,-71.98095,-13.51629
+89,Hotel Jose Antonio Cusco,"Cusco a 1,08 km del centro","Av. Pardo 1080, Cusco 00001, Cusco (Peru)",4,-71.97341,-13.52538
+90,Hotel Ruinas,"Cusco a 0,21 km del centro","C/ Ruinas, 472, Cusco 1, Cusco (Peru)",3,-71.97554,-13.51644
+91,Atiq Hotel Boutique,"Cusco a 0,6 km del centro","Av. El Sol 613, Cusco 84, Cusco (Peru)",4,-71.97564,-13.52152
+92,El Mercado Hotel,"Cusco a 0,23 km del centro","Calle Siete Cuartones 306, Cusco Cusc01, Cusco (Peru)",4,-71.98241,-13.51634
+93,Hotel San Agustin Plaza,"Cusco a 0,63 km del centro","Avenida El Sol 594, Cusco 84, Cusco (Peru)",3,-71.97584,-13.52135
+94,Bed & Breakfast Wake Up Cusco,"Cusco a 0,29 km del centro","Calle Tambo de Montero 219-A, Cusco , Cusco (Peru)",-1,-71.98282,-13.51506
+95,Hotel Abittare,"Cusco a 0,41 km del centro","Plazoleta Santo Domingo 263, Cusco 084, Cusco (Peru)",-1,-71.97552,-13.51986
+96,Hostal Marlon's House Cusco,"Cusco a 0,34 km del centro","Calle: Nueva Baja 496, Cusco , Cusco (Peru)",-1,-71.98364,-13.51819
+97,Hotel Unumizu,"Cusco a 0,92 km del centro","Av. Huayna Cápac, 210, Cusco 051 84, Cusco (Peru)",3,-71.96975,-13.52301
+98,San Francisco Plaza Hotel,"Cusco a 0,35 km del centro","Calle Ceniza 147, Cusco 084, Cusco (Peru)",3,-71.98402,-13.51789
+99,Apartamento Ayenda Monasterio Del Inka,"Cusco a 0,17 km del centro","Calle Herrajes con Pasaje Inca Roca 116, Cusco , Cusco (Peru)",-1,-71.97653,-13.51617
+100,Hotel Rumi Wasi,"Cusco a 0,33 km del centro","Calle Suecia 499, Cusco Cusc 01, Cusco (Peru)",-1,-71.98031,-13.51415
+101,Hotel Q'armenq'a,"Cusco a 0,48 km del centro","Calle Puente del Rosario 128, Cusco Cusco, Cusco (Peru)",3,-71.97664,-13.52092
+102,Hotel Rumi Punku,"Cusco a 0,33 km del centro","Calle Choquechaca 339, Cusco , Cusco (Peru)",2,-71.97666,-13.51422
+103,Hotel Palacio Manco Capac,"Cusco a 0,43 km del centro","Quinta Qolqampata S/N, Barrio San Cristóbal, Cusco Cusco, Cusco (Peru)",4,-71.9616,-13.52375
+104,Bed & Breakfast Pisko & Soul,"Cusco a 0,38 km del centro","Carmen Alto 294, San Blas, Cusco 084, Cusco (Peru)",-1,-71.97618,-13.51364
+105,Hotel Siete Ventanas,"Cusco a 0,25 km del centro","Calle Siete Ventanas 207, Cusco cusco01, Cusco (Peru)",3,-71.97496,-13.51647
+106,Hotel Amerinka Boutique,"Cusco a 0,27 km del centro","CALLE MARQUEZ 272, Cusco 01, Cusco (Peru)",3,-71.98048,-13.51871
+107,Antares Mystic Hotel,"Cusco a 0,61 km del centro","Cascaparo, 172, Cusco Cusc 01, Cusco (Peru)",2,-71.98257,-13.52166
+108,Posada Kuska Hostal,"Cusco a 0,22 km del centro","Huaynapata 245, Cusco Cusco, Cusco (Peru)",-1,-71.9791,-13.51464
+109,Albergue Piuray Hostal Cusco,"Cusco a 0,75 km del centro","Picchu San Martin Av. Tupac Amaru C-4, Cusco Cusc 01, Cusco (Peru)",-1,-71.90555,-13.53982
+110,Imagen Plaza Hotel,"Cusco a 0,8 km del centro","Calle Tupac Yupanqui Numero 391, Templo - Plaza Recoleta, Cusco, Cusco Cusc 01, Cusco (Peru)",1,-71.96724,-13.51617
+111,Hostal Mamaquqa,"Cusco a 0,31 km del centro","Av. Arcopata 335, Cusco Cuz 01, Cusco (Peru)",-1,-71.98413,-13.516
+112,Hostal Conde Meloc,"Cusco a 0,25 km del centro","Calle Meloc 420, Cusco 084, Cusco (Peru)",-1,-71.98318,-13.51644
+113,Posada Conquista Cusco,"Cusco a 0,46 km del centro","Calle Saphi 726 A, Cusco Cusc84, Cusco (Peru)",-1,-71.98279,-13.51325
+114,A1 Apartments,"Cusco a 1,5 km del centro","Av. Los Incas 1044, Cusco , Cusco (Peru)",-1,-71.95927,-13.52403
+115,Hotel Midori,"Cusco a 0,13 km del centro","Calle Ataud 204, Cusco 84, Cusco (Peru)",3,-71.97851,-13.51517
+116,Mirador Apart Hotel Cusco,"Cusco a 1,18 km del centro","Avenida Argentina J-9 Cusco, Cusco , Cusco (Peru)",-1,-71.95794,-13.5173
+117,Agroturismo Albergue Turistico Casa Campesina,"Cusco a 0,25 km del centro","Avenida Tullumayo, 274, Cusco Cusco, Cusco (Peru)",-1,-71.97515,-13.51651
+118,Apartamento Cities Of The World - Hotel Cusco,"Cusco a 0,51 km del centro","Tandapata 370 - San Blas, Cusco Cusco, Cusco (Peru)",-1,-71.97356,-13.51523
+119,Bed & Breakfast Samana Inn & Spa,"Cusco a 0,29 km del centro","Calle Tecsecocha 536, Cusco 08001, Cusco (Peru)",-1,-71.9811,-13.51425
+120,Hostal Maison Fortaleza,"Cusco a 0,43 km del centro","Calle Pumacurco 567, Cusco Cusc 01, Cusco (Peru)",-1,-71.9784,-13.51284
+121,Hostal Llipimpac Guesthouse,"Cusco a 0,44 km del centro","Limacpampa Chico, 400 - 2º Patio, Cusco 84, Cusco (Peru)",-1,-71.97343,-13.51951
+122,Hotel Suenos Del Inka,"Cusco a 0,24 km del centro","Calle Warankallki 185, Cusco 84, Cusco (Peru)",3,-71.97528,-13.51608
+123,Hotel Eureka San Blas,"Cusco a 0,31 km del centro","Calle Chihuanpata, 591 - San Blas, Cusco , Cusco (Peru)",3,-71.97373,-13.51629
+124,Hotel Garcilaso I,"Cusco a 0,16 km del centro","Calle Garcilaso 233, Cusco 00084, Cusco (Peru)",3,-71.98101,-13.51785
+125,Cusco Bed And Breakfast,"Cusco a 0,47 km del centro","Calle Union #140, Cusco , Cusco (Peru)",-1,-71.98344,-13.51993
+126,Hotel Hostal Saphi - Excelente UbicaciÃ³n,"Cusco a 0,33 km del centro","Calle Saphi Nº107, Cusco CUZ01, Cusco (Peru)",2,-71.98279,-13.51325
+127,Kokopelli Hostel Cusco,"Cusco a 0,36 km del centro","Calle San Andres 260, Cusco Cusc 01, Cusco (Peru)",-1,-71.97857,-13.51964
+128,Hotel Warari,"Cusco a 0,9 km del centro","Av. Tullumayo 909, Cusco Cusco, Cusco (Peru)",3,-71.9736,-13.52063
+129,Tandapata Boutique Hotel,"Cusco a 0,36 km del centro","Tandapata N° 648 San Blas, Cusco Cusc 01, Cusco (Peru)",-1,-71.97584,-13.51279
+130,Julia's Hotel,"Cusco a 3,7 km del centro","Agua Buena F4-B, Cusco 0000, Cusco (Peru)",2,-71.95713,-13.52413
+131,Bed & Breakfast Kukuli Lodge,"Cusco a 1,59 km del centro","520 Av. Tomasa Ttito Condemayta, Cusco Cusc 01, Cusco (Peru)",-1,-71.96376,-13.51792
+132,Florida Del Inca Hotel,"Cusco a 1,96 km del centro","Avenida los Cipreces M-21, Cuzco, Cusco 084CUZ, Cusco (Peru)",3,-71.9932,-13.52055
+133,Hostal LeonardÂŽs Lodgings,"Cusco a 0,84 km del centro","Av. Pardo N°820, Cusco , Cusco (Peru)",-1,-71.97512,-13.52357
+134,Hotel La Posada De Atahualpa,"Cusco a 0,71 km del centro","Jr. Atahualpa No 405-A, Cusco 84, Cusco (Peru)",3,-71.96738,-13.51667
+135,Posada Hosteria De Anita,"Cusco a 0,27 km del centro","Alabado, 525, Cusco 84, Cusco (Peru)",-1,-71.96977,-13.52864
+136,Bed & Breakfast Inka Walker,"Cusco a 0,16 km del centro","Calle Santa Catalina Ancha 380, Cusco Cusc 01, Cusco (Peru)",-1,-71.97638,-13.51692
+137,Hotel San Jeronimo,"Cusco a 6,75 km del centro","Calle Romeritos S/N Fundo Buena Vista san jeronimo, Cusco 084, Cusco (Peru)",3,-71.88075,-13.54678
+138,Hostal Chakana Hostel,"Cusco a 0,9 km del centro","Av. Huascar, 246-B, Cusco sn, Cusco (Peru)",-1,-71.97201,-13.52301
+139,Hostal Cusco Plaza II,"Cusco a 0,27 km del centro","Calle Saphy 486, Cusco 08*, Cusco (Peru)",-1,-71.98134,-13.51479
+140,Awkis Dream Hotel,"Cusco a 7528,41 km del centro","C/ Collacalle 310-312, Cusco CUSCO 01, Cusco (Peru)",3,-71.97318,-13.51815
+141,Hostal Madre Tierra,"Cusco a 0,37 km del centro","C/ Atocsaycuchi 647 A, San Blas, Cusco 084, Cusco (Peru)",-1,-71.97622,-13.51343
+142,Wifala Thematic Hotel Boutique,"Cusco a 0,8 km del centro","Jr. Tetecaca 111, Cusco 01, Cusco (Peru)",-1,-71.97852,-13.51643
+143,Unaytambo Boutique Hotel,"Cusco a 0,4 km del centro","Pasaje Romeritos 402, Cusco Cusco 01, Cusco (Peru)",3,-71.97539,-13.5191
+144,Hotel Tornado,"Cusco a 24,84 km del centro","Av. Concha Tupac S/n Con Bolivar Urubamb, Cusco 084, Cusco (Peru)",3,-71.94108,-13.5283
+145,Albergue Milhouse Backpackers & Hotel,"Cusco a 0,36 km del centro","Calle Quera 270, Cusco 605305, Cusco (Peru)",-1,-71.97969,-13.51993
+146,Posada Chakana House,"Cusco a 0,29 km del centro","Tecsecocha 490-B, Cusco 00000000, Cusco (Peru)",-1,-71.9809,-13.51445
+147,Keros B&B,"Cusco a 1,9 km del centro","Av. Industrial I-21 - Bancopata - Santiago, Cusco 051, Cusco (Peru)",-1,-71.97231,-13.53328
+148,Posada El Solar,"Cusco a 0,23 km del centro","Plaza San Francisco 162, Cusco 001, Cusco (Peru)",-1,-71.98147,-13.51851
+149,Hotel Tupac Yupanqui,"Cusco a 0,2 km del centro","San Agustin 236, Cusco Cusc 01, Cusco (Peru)",3,-71.97598,-13.51721
+150,Hotel Monasterio San Pedro,"Cusco a 0,55 km del centro","Calle Cascaparo 116, Cusco 84, Cusco (Peru)",3,-71.98329,-13.52065
+151,Hotel Esplendor Cusco,"Cusco a 0,44 km del centro","C/ Union 189. Centro de Cusco, Cusco 84, Cusco (Peru)",4,-71.9837,-13.51948
+152,Chaski Hotel,"Cusco a 1,17 km del centro","Av. Infancia N°443 Wanchaq, Cusco , Cusco (Peru)",3,-71.96856,-13.52548
+153,Hotel Tierra Del Inka,"Cusco a 0,37 km del centro","Calle Choquechaka 379, Cusco , Cusco (Peru)",2,-71.89005,-13.5444
+154,Posada Inn,"Cusco a 0,37 km del centro","Calle Quera 253, Cusco 084, Cusco (Peru)",-1,-71.97937,-13.51964
+155,Posada Hostal El Grial,"Cusco a 0,38 km del centro","Calle Carmen Alto 112, Cusco 0084, Cusco (Peru)",-1,-71.97491,-13.51486
+156,Hotel Mamasara,"Cusco a 0,68 km del centro","CALLE SAPHY N° 875, Cusco 84, Cusco (Peru)",3,-71.98279,-13.51325
+157,Hostal Teatro Inka,"Cusco a 0,19 km del centro","Calle Teatro 391, Cusco CUSC 01, Cusco (Peru)",-1,-71.982,-13.51668
+158,Inka Club Hostel,"Cusco a 0,19 km del centro","Calle Siete Cuartones 284, Cusco CUSC 01, Cusco (Peru)",-1,-71.98208,-13.51613
+159,Hotel The Garden House Cusco,"Cusco a 5,09 km del centro","Los Alamos B-6, Larapa, Cusco , Cusco (Peru)",3,-71.97574,-13.53408
+160,Hotel El BalcÃ³n,"Cusco a 0,29 km del centro","Calle Tambo de Montero 222, Cusco Cusco, Cusco (Peru)",3,-71.98284,-13.51508
+161,Hotel Royal Qosqo,"Cusco a 0,16 km del centro","Calle Tecsecocha N° 2, Cusco 08002, Cusco (Peru)",3,-71.98078,-13.51458
+162,Hostal CÃ¡ceres,"Cusco a 0,14 km del centro","Calle Plateros 368, Cusco 084, Cusco (Peru)",-1,-71.98046,-13.51572
+163,Hostal Cusco Viewpoint,"Cusco a 0,41 km del centro","Pasñapakana 133, Cusco CUSC 01, Cusco (Peru)",-1,-71.97437,-13.51445
+164,Hotel Royal Inn Cusco,"Cusco a 1,94 km del centro","Av. 28 De Julio M2 - 1, Cusco 0000, Cusco (Peru)",2,-71.96201,-13.53253
+165,Euro Hostal,"Cusco a 0,29 km del centro","Kiskapata 445, Cusco 08001, Cusco (Peru)",-1,-71.97852,-13.51643
+166,Hotel Choquequiraw Inn,"Cusco a 0,28 km del centro","AV. Tullumayo 278, Cusco 084, Cusco (Peru)",-1,-71.97515,-13.51651
+167,Hotel Carlos V,"Cusco a 0,27 km del centro","Calle Tecsecocha 490, Cusco , Cusco (Peru)",-1,-71.9809,-13.51445
+168,Hostal Quechua,"Cusco a 0,59 km del centro","C/ Chaparro, 173 Interior D - 084, Cusco 084, Cusco (Peru)",-1,-71.98395,-13.51989
+169,Hostal Tika Wasi,"Cusco a 0,43 km del centro","C/ Tandapata, 491 - esquina  con calle 7 angelitos, Cusco 01-CUZ, Cusco (Peru)",-1,-77.03196,38.89037
+170,Hostal Tu Hogar,"Cusco a 0,29 km del centro","Calle Chihuampata 548, San Blas, Cusco 5184, Cusco (Peru)",-1,-71.97435,-13.51657
+171,Peruvian Inn Hostal,"Cusco a 2,16 km del centro","Av. Simon Herrera Farfan C 6, Cusco , Cusco (Peru)",-1,-71.97771,-13.5277
+172,Hotel Waman Qorikancha,"Cusco a 0,47 km del centro","Calle Awaqpinta 539, Al costado del templo del Qorikancha - Plazoleta Santo Domingo, Cusco , Cusco (Peru)",-1,-71.97489,-13.5203
+173,Hotel De La Villa Hermoza,"Cusco a 0,83 km del centro","Av. Pardo 1041 - 1079, Cusco 0000, Cusco (Peru)",3,-71.97336,-13.52523
+174,Cuscopackers Hostels,"Cusco a 0,5 km del centro","Av. Prolongación Arcopata 129 (Nueva Av. Abancay), Cusco 08002, Cusco (Peru)",-1,-71.97091,-13.51698
+175,Hotel La Casa De Fray Bartolome,"Cusco a 0,41 km del centro","AV. TULLUMAYO 465, Cusco Cusco, Cusco (Peru)",3,-71.9736,-13.52063
+176,Hotel Casa De MamÃ¡ Cusco Recoleta,"Cusco a 0,35 km del centro","Calle Recoleta Pantaccalle 388, San Blas, Cusco 084, Cusco (Peru)",2,-71.97365,-13.51815
+177,Apartamento Casona La Recoleta,"Cusco a 0,3 km del centro","Recoleta 558, Cusco Cusc84, Cusco (Peru)",-1,-71.97408,-13.5168
+178,Albergue Peruvian Hostal,"Cusco a 0,16 km del centro","Santa Catalina Ancha 380, Cusco , Cusco (Peru)",-1,-71.97638,-13.51692
+179,Hotel Asiri Cascada Del Inca,"Cusco a 0,62 km del centro","Urb. Lucrepata D13, Cusco , Cusco (Peru)",-1,-71.97058,-13.51541
